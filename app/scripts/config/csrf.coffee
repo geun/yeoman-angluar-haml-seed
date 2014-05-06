@@ -1,3 +1,5 @@
+'use strict'
+
 angular.module("chattingcatApp")
   .config ($httpProvider)->
     authToken = $("meta[name=\"csrf-token\"]").attr("content")
