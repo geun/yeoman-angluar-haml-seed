@@ -1,6 +1,6 @@
 {
-  "name": "chattingcat",
-  "version": "0.0.0",
+  "name": "chattingcat-webapp",
+  "version": "0.1.0",
   "dependencies": {},
   "devDependencies": {
     "connect-modrewrite": "^0.6.4",
